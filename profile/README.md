@@ -1,9 +1,5 @@
-![1984ReadmeHeader](https://github.com/1984vc/.github/assets/2868/8956bb2a-d9bd-47e7-97b8-32594f66d3c1)
 
-
-🇵🇭🇮🇱🇴🇸🇴🇵🇭🇾
-
-# No buzzwords. No hype. We invest in founders using software to solve real 🌎 problems.
+![1984ReadmeHeader2](https://github.com/1984vc/.github/assets/2868/9e2eb53d-74c7-4ac8-908d-d279dc84668c)
 
 #### HOW WE INVEST
 
@@ -16,7 +12,3 @@
 1. We don't take board seats. We prefer to be in your speed dial and get the late-night call 🤙
 1. We help with recruiting, 💰 raising, and founder therapy 😩
 1. We will work with you to ensure you're set up for an outstanding Series A 🏆
-
-### Partners
-
-
