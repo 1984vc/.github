@@ -1,5 +1,5 @@
+![1984ReadmeHeader3](https://github.com/1984vc/.github/assets/2868/5efc57c9-7f25-4fa5-b381-eeeee6e90b60)
 
-![1984ReadmeHeader2](https://github.com/1984vc/.github/assets/2868/9e2eb53d-74c7-4ac8-908d-d279dc84668c)
 
 #### HOW WE INVEST
 
