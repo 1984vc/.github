@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/1984vc/.github/main/assets/hello.svg" width="200">
+<img src="https://raw.githubusercontent.com/1984vc/.github/main/assets/hello.svg" width="150">
 
 In 1984 Apple introduced the Macintosh via an iconic commercial and a simple idea:
 
