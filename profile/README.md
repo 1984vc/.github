@@ -1,4 +1,4 @@
-![1984ReadmeHeader3](../assets/hello.svg)
+![1984ReadmeHeader3](https://raw.githubusercontent.com/1984vc/.github/main/assets/hello.svg)
 
 In 1984 Apple introduced the Macintosh via an iconic commercial and a simple idea:
 
